@@ -15,6 +15,6 @@ The use of Ethereum based tokens in blockchain applications have been on the ris
    
 2. `pip install -r requirements.txt` (only for the first time)
 
-3. 'python mythril_using_subroutine.py'
+3. `python mythril_using_subroutine.py`
 
 3. Check for smart contract bytecodes.
