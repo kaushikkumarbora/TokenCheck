@@ -9,7 +9,7 @@ The use of Ethereum based tokens in blockchain applications have been on the ris
 
 3. Check for smart contract bytecodes.
 
-### Steps to run the Mythril
+### Steps to run Mythril
 
 1. `cd Utils`
    
@@ -18,3 +18,18 @@ The use of Ethereum based tokens in blockchain applications have been on the ris
 3. `python mythril_using_subroutine.py`
 
 3. Check for smart contract bytecodes.
+
+### References
+
+* [Mythril](https://github.com/ConsenSys/mythril)
+* [Maian](https://github.com/ivicanikolicsg/MAIAN)
+* [Ethereum-DASM](https://github.com/tintinweb/ethereum-dasm)
+* [SWC-Registry](https://github.com/SmartContractSecurity/SWC-registry)
+* [Ethereum-ETL](https://github.com/blockchain-etl/ethereum-etl)
+
+### Authors
+
+* [Subhasish Goswami](https://github.com/subhasishgoswami)
+* [Rabijit Singh](https://github.com/rabijitsingh)
+* [Kaushik Kumar Bora](https://github.com/kaushikkumarbora)
+* [Nayanjeet Saikia](https://github.com/Neyen108)
