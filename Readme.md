@@ -22,7 +22,7 @@ The use of Ethereum based tokens in blockchain applications have been on the ris
 ### Model Architecture
 <br>
 <div align="center" class="row">
-  <img src="model.gif" width="440"/>
+  <img src="model.gif" width="500"/>
 </div>
 
 
