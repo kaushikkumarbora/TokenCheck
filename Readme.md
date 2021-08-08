@@ -27,6 +27,12 @@ The use of Ethereum based tokens in blockchain applications have been on the ris
 * [SWC-Registry](https://github.com/SmartContractSecurity/SWC-registry)
 * [Ethereum-ETL](https://github.com/blockchain-etl/ethereum-etl)
 
+<div align="center" class="row">
+  <img src="model.gif" width="400"/>
+</div>
+<h3 align="center">Discover Your Network</h3>
+<br>
+
 ### Authors
 
 * [Subhasish Goswami](https://github.com/subhasishgoswami)
