@@ -20,12 +20,11 @@ The use of Ethereum based tokens in blockchain applications have been on the ris
 3. Check for smart contract bytecodes.
 
 ### Model Architecture
-
-<div align="center" class="row">
-  <img src="model.gif" width="500"/>
-</div>
-<h3 align="center">Discover Your Network</h3>
 <br>
+<div align="center" class="row">
+  <img src="model.gif" width="400"/>
+</div>
+
 
 ### References
 
