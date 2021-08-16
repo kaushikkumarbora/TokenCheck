@@ -42,4 +42,3 @@ The use of Ethereum based tokens in blockchain applications have been on the ris
 * [Kaushik Kumar Bora](https://github.com/kaushikkumarbora)
 * [Nayanjeet Saikia](https://github.com/Neyen108)
 
-#### Code for academic research
