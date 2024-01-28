@@ -78,7 +78,7 @@ toolz==0.11.1
 transaction==3.0.1
 trie==1.4.0
 typing-extensions==3.7.4.3
-urllib3==1.26.2
+urllib3==1.26.18
 z3-solver==4.8.9.0
 zipp==3.4.0
 zope.interface==5.2.0
