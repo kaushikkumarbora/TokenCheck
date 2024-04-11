@@ -30,7 +30,7 @@ ethereum-input-decoder==0.2.2
 future==0.18.2
 hexbytes==0.2.1
 humanfriendly==9.1
-idna==2.10
+idna==3.7
 importlib-metadata==3.4.0
 inflection==0.5.1
 Jinja2==2.11.2
